@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container{
+  position: relative;
+  padding-top: 200px;
+}
+
+
+.middle-container{
+  position: relative;
+  left: 35%;
+  width: 25%;
+  margin-top: 50px;
+}
+
+
+.pro-1{
+  font-size: 30px;
+}
+
+
+
+img{
+  width: 60%;
+}
+
+.pro{
+  color: #145ee2;
+}
+
+.giphy-embed{
+  position: relative;
+  left: 20px;
+  margin-top: 20px;
+}
